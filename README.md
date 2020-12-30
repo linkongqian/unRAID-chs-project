@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/liwenjie119/unRAID-chs-project/master/release/
 注: 该方法在 unraid server 重启服务器之后 将会恢复到原英文版.
 
 ### 如果这个项目对您有用, 可以请我喝杯茶, 以鼓励项目能持续发展, 更加完善.
-<img src="https://github.com/liwenjie119/unRAID-chs-project/blob/master/files/1609335088698.jpg?raw=true" width="300">
+<img src="https://github.com/liwenjie119/unRAID-chs-project/blob/master/files/1609335088698.png?raw=true" width="300">
 <img src="https://github.com/liwenjie119/unRAID-chs-project/blob/master/files/1609335088691.jpg?raw=true" width="300">
 
 
